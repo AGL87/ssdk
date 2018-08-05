@@ -1,0 +1,16 @@
+{
+  "name": "ssdk",
+  "main": "./lib/side",
+  "version": "1.0.0",
+  "description": "SSDK (Silicium SDKà) for Atom",
+  "keywords": [
+  ],
+  "activationCommands": {
+  },
+  "repository": "",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
